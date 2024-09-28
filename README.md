@@ -7,3 +7,5 @@ https://www.python.org/downloads/
 DISCORD_BOT_TOKEN=**add your token**
 
 # 3.Run bot.py
+
+# Wygląd
