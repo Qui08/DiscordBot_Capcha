@@ -8,7 +8,7 @@ DISCORD_BOT_TOKEN=**add your token**
 
 # 3.Run bot.py
 
-# Komendy
+# Komendy:
 # */captcha*
 Komenda do spawnowania wiadomości z CAPTCHA i możliwością sprawdzenia danej osoby
 # */setrole*
