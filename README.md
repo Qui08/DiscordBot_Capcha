@@ -6,7 +6,11 @@ https://www.python.org/downloads/
 # 2.Edit .env
 DISCORD_BOT_TOKEN=**add your token**
 
-# 3.Run bot.py
+# 3.Download packs
+*Otwórz cmd w folderze z botem i wpisz*
+*pip install discord.py python-dotenv*
+
+# 4.Run bot.py
 
 # Komendy:
 # */captcha*
