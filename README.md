@@ -7,8 +7,8 @@ https://www.python.org/downloads/
 DISCORD_BOT_TOKEN=**add your token**
 
 # 3.Download packs
-*Otwórz cmd w folderze z botem i wpisz*
-*pip install discord.py python-dotenv*
+ # *Otwórz cmd w folderze z botem i wpisz*
+ # *pip install discord.py python-dotenv*
 
 # 4.Run bot.py
 
